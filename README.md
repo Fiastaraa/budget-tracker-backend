@@ -1,2 +1,3 @@
 # budget-tracker-backend
-Budget Tracker 
+Budget Tracker + AI financial advisor SETUP
+
